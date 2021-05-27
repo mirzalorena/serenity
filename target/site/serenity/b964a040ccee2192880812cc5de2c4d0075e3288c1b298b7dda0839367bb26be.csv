@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Emag search by price","Search emag by product filter","FAILURE","2021-05-04T16:22:03.778926+03:00[Europe/Bucharest]","0.0","81.46"
+"Search by keyword story","Initialisation","ERROR","2021-05-05T22:40:12.282676+03:00[Europe/Bucharest]","0.0","0.0"
+"Emag search by price","Search emag by product resigilate","FAILURE","2021-05-06T17:53:51.3380477+03:00[Europe/Bucharest]","0.0","24.88"
+"Emag search by price","Search emag by product","FAILURE","2021-05-06T17:53:51.5986404+03:00[Europe/Bucharest]","0.0","21.17"

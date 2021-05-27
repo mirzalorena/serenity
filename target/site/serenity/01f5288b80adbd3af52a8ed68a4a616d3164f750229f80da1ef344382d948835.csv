@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword dog should display the corresponding article","SUCCESS","2021-05-06T17:57:00.4129893+03:00[Europe/Bucharest]","0.0","9.76"
+"Search by keyword story","Searching by keyword cat should display the corresponding article","SUCCESS","2021-05-06T17:57:11.2963928+03:00[Europe/Bucharest]","0.0","4.11"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2021-05-06T17:57:15.5563217+03:00[Europe/Bucharest]","0.0","5.27"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2021-05-06T17:57:20.998964+03:00[Europe/Bucharest]","0.0","6.43"
